@@ -38,6 +38,8 @@ and view current weather details.
 
 Html , Css , Javascript.
 
+## ScreenShot
+
 ![Screenshot (172)](https://github.com/Prithvi1713/MyWhetherApp/assets/146122339/0db4477f-a1cf-47b3-9432-8e128a7fee8f)
 ![Screenshot (173)](https://github.com/Prithvi1713/MyWhetherApp/assets/146122339/1a73fb9b-aa19-4cf5-932c-07092f86fb91)
 ![Screenshot (174)](https://github.com/Prithvi1713/MyWhetherApp/assets/146122339/8c879048-6b4a-4ac0-903b-058ddc30d13b)
