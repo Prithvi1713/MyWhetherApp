@@ -37,3 +37,13 @@ and view current weather details.
 # Technologies-
 
 Html , Css , Javascript.
+
+## ScreenShot
+
+![Screenshot (172)](https://github.com/Prithvi1713/MyWhetherApp/assets/146122339/0db4477f-a1cf-47b3-9432-8e128a7fee8f)
+![Screenshot (174)](https://github.com/Prithvi1713/MyWhetherApp/assets/146122339/8c879048-6b4a-4ac0-903b-058ddc30d13b)
+![Screenshot (175)](https://github.com/Prithvi1713/MyWhetherApp/assets/146122339/68da3b7a-3068-480e-815d-5601b3bb30f7)
+
+## Video 
+https://github.com/Prithvi1713/MyWhetherApp/assets/146122339/81f4ee21-33bf-43c4-b37d-70c0884c1e9e
+
